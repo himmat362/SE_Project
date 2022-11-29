@@ -76,7 +76,7 @@ _Due to demo reasons and heroku free terms, if an app receives no web traffic in
 Clone this repository to desired location
 
 ```Shell
-git clone https://github.com/XanderUZZZER/proShop.git
+https://github.com/himmat362/SE_Project.git
 ```
 
 <br>
