@@ -1,4 +1,4 @@
-# [ProShop eCommerce Platform](https://xander-proshop.herokuapp.com/)
+# [Easy Get Online Ordering System](https://xander-proshop.herokuapp.com/)
 
 # Description
 
